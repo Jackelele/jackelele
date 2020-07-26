@@ -1,6 +1,5 @@
 
 ### Hi there 👋
-**✨ special ✨**
 
 ⚡ I'm **Jackelele**, 19 from the United Kingdom. 
 
