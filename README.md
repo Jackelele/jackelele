@@ -2,8 +2,8 @@
 
 <p align="center">
   📰 I am currently a student studying BSc (Hons) Computing (Network, Security and Forensics).<br>
-  🔭 I am currently working on projects for [Elele.Team](https://github.com/Elele-Team) and [Hytale Hub](https://hytalehub.com).<br>
-  📫 You can contact me via Discord: **Jackelele#0001** or via email jack(at)elele.team
+  🔭 I am currently working on projects for <a href="https://github.com/Elele-Team">Elele Team</a> and <a href="https://hytalehub.com">Hytale Hub</a>.<br>
+  📫 You can contact me via Discord: <strong>Jackelele#0001</strong> or via email jack(at)elele.team
 </p>
 
 <h2 align=center"> Links </h1>
