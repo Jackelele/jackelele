@@ -1,8 +1,8 @@
 <h1 align="center"> Hii there 👋 </h1>
 
 <p align="center">
-  📰 I am currently a student studying BSc (Hons) Computing (Network, Security and Forensics).
-  🔭 I am currently working on projects for [Elele.Team](https://github.com/Elele-Team) and [Hytale Hub](https://hytalehub.com).
+  📰 I am currently a student studying BSc (Hons) Computing (Network, Security and Forensics).<br>
+  🔭 I am currently working on projects for [Elele.Team](https://github.com/Elele-Team) and [Hytale Hub](https://hytalehub.com).<br>
   📫 You can contact me via Discord: **Jackelele#0001** or via email jack(at)elele.team
 </p>
 
