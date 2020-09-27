@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="30"/> Hi 👋, I'm Jackelele</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="30"/> Hi, I'm Jackelele</h1>
 <h3 align="center">A Freelance Website Developer from the UK</h3>
 <p>Welcome to my page! </br> I'm Jack, Website developer from <img src="https://www.flaticon.com/svg/static/icons/svg/551/551844.svg" width="13"/> <b>United Kingdom</b>.
 
