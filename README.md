@@ -1,5 +1,4 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="30"/> Hey, nice to see you.</h1>
-<h3 align="center">A Freelance Website Developer from the UK</h3>
 <p>Welcome to my page! </br> I'm Jack, Website developer from <img src="https://www.flaticon.com/svg/static/icons/svg/551/551844.svg" width="13"/> <b>United Kingdom</b>.
 
 - 💼 𝙸'𝚖 𝚝𝚑𝚎 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚊𝚗𝚍 𝙲𝙴𝙾 𝚘𝚏 [elele.team](https://elele.team)
