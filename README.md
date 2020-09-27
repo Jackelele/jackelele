@@ -12,7 +12,7 @@
 
 
       
-<h2>&#x1f4c8; GitHub Stats</h2>
+<h2>📈 GitHub Stats</h2>
 <a href="https://github.com/Jackelele/jackelele">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackelele&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -20,5 +20,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jackelele&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jackelele's GitHub Stats" />
 </a>
 
-<h2>What I'm Listening to </h2>
+<h2>🎉 What I'm Listening to </h2>
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=11120813525&cover_image=false">
