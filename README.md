@@ -9,6 +9,7 @@
 ## Connect with me  
 <div align="left">
  <a href="https://discord.gg/hJuVz6c"><img alt="Discord" src="https://img.shields.io/discord/557259781199626240"></a>
+ <a href="https://twitch.tv/JackeleleHD"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/JackeleleHD?style=social"></a>
 </div>  
 
 ## 🔧 Technologies & Tools
