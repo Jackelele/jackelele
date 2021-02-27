@@ -5,7 +5,11 @@
 - 🎓 𝙸 𝚊𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 **𝙲𝚘𝚖𝚙𝚞𝚝𝚒𝚗𝚐 (𝙽𝚎𝚝𝚠𝚘𝚛𝚔, 𝚂𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝚊𝚗𝚍 𝙵𝚘𝚛𝚎𝚗𝚜𝚒𝚌𝚜) 𝚊𝚝 EHU.**
 - 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚓𝚊𝚌𝚔@𝚎𝚕𝚎𝚕𝚎.𝚝𝚎𝚊𝚖
 
-<a href="https://discord.gg/hJuVz6c"><img alt="Discord" src="https://img.shields.io/discord/557259781199626240"></a>
+
+## Connect with me  
+<div align="left">
+ <a href="https://discord.gg/hJuVz6c"><img alt="Discord" src="https://img.shields.io/discord/557259781199626240"></a>
+</div>  
 
 ## 🔧 Technologies & Tools
 <table><tr><td valign="top" width="33%">
@@ -44,19 +48,6 @@
 
 <br/>  
 
-
-## Connect with me  
-<div align="left">
-<a href="https://github.com/jackelele" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/jackelele_" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://codepen.com/jackelele" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
-</a>
-</div>  
   
 
 <br/>  
