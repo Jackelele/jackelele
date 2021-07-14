@@ -4,7 +4,7 @@
  </div>
  <h1>Hi there, I'm <a href="https://www.jack.elele.dev/">Jack</a> <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="30"/>, nice to see you.</h1>
 
-- 𝙸 𝚊𝚖 𝚏𝚛𝚘𝚖 𝚝𝚑𝚎 <img src="https://www.flaticon.com/svg/static/icons/svg/551/551844.svg" width="13"/> <b>𝚄𝚗𝚒𝚝𝚎𝚍 𝙺𝚒𝚗𝚐𝚍𝚘𝚖</b>.
+- <img src="https://www.flaticon.com/svg/static/icons/svg/551/551844.svg" width="16"/> 𝙸 𝚊𝚖 𝚏𝚛𝚘𝚖 𝚝𝚑𝚎 <b>𝚄𝚗𝚒𝚝𝚎𝚍 𝙺𝚒𝚗𝚐𝚍𝚘𝚖</b>.
 - 💼 𝙸'𝚖 𝚝𝚑𝚎 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 [elele.team](https://elele.team)
 - 🎓 𝙸 𝚊𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 **𝙲𝚘𝚖𝚙𝚞𝚝𝚒𝚗𝚐 (𝙽𝚎𝚝𝚠𝚘𝚛𝚔, 𝚂𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝚊𝚗𝚍 𝙵𝚘𝚛𝚎𝚗𝚜𝚒𝚌𝚜) 𝚊𝚝 EHU.**
 - 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚓𝚊𝚌𝚔@𝚎𝚕𝚎𝚕𝚎.𝚝𝚎𝚊𝚖
