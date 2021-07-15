@@ -17,6 +17,6 @@
 </div>  
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
- 
-![Metrics](https://metrics.lecoq.io/Jackelele?template=classic&base.header=0&languages=1&lines=1&notable=1&pagespeed=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&notable.repositories=false&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Europe%2FLondon)
+
+ <img src="https://metrics.lecoq.io/Jackelele?template=classic&base.header=0&languages=1&lines=1&notable=1&pagespeed=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&notable.repositories=false&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Europe%2FLondon" alt="Github Stats" />
 
