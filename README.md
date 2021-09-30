@@ -2,7 +2,7 @@
  <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Hello+World!;I+am+Jackelele;Welcome+to+my+profile!">
 
  </div>
- <h1>Hi there, I'm <a href="https://www.jack.elele.dev/">Jackelele</a> <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="30"/>, nice to see you.</h1>
+ <h1>Hi there, I'm <a href="https://jack.elele.dev/">Jackelele</a> <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="30"/>, nice to see you.</h1>
 
 - 🏠 𝙸 𝚊𝚖 𝚏𝚛𝚘𝚖 𝚝𝚑𝚎 <b>𝚄𝚗𝚒𝚝𝚎𝚍 𝙺𝚒𝚗𝚐𝚍𝚘𝚖</b>.
 - 💼 𝙸'𝚖 𝚝𝚑𝚎 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 [elele.team](https://elele.team)
