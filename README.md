@@ -6,7 +6,7 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCgNQq61fmPV5QAsTY8HIE3g?logo=youtube&logoColor=red&style=for-the-badge)](https://youtube.com/c/Jackelele)
 [![Website](https://img.shields.io/website?label=stivegroup.com&style=for-the-badge&url=https%3A%2F%2Fstivegroup.com)](https://stivegroup.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Jackelele_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Jackelele_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow/Jackelele_)
 
 ## I am a computing student, developer and gamer!
 
