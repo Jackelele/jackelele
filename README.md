@@ -10,9 +10,8 @@
 
 ## I am a computing student, developer and gamer!
 
-- 🏠 𝙸 𝚊𝚖 𝚏𝚛𝚘𝚖 𝚝𝚑𝚎 <b>𝚄𝚗𝚒𝚝𝚎𝚍 𝙺𝚒𝚗𝚐𝚍𝚘𝚖</b>.
 - 🌱 I’m currently learning everything 🤣
-- 🎓 𝙸 𝚊𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 **𝙲𝚘𝚖𝚙𝚞𝚝𝚒𝚗𝚐 (𝙽𝚎𝚝𝚠𝚘𝚛𝚔, 𝚂𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝚊𝚗𝚍 𝙵𝚘𝚛𝚎𝚗𝚜𝚒𝚌𝚜) 𝚊𝚝 EHU.**
+- 🎓 I am currently stuying **Computing (Network, Security and Forensics) at EHU.**
 - 🥅 2022 Goals: Learn more about NextJS
 
 
