@@ -5,7 +5,6 @@
  <h1>Hi there, I'm Jackelele <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="30"/>, nice to see you.</h1>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/377175513372033024)](https://discord.com/users/377175513372033024)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Jackelele_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Jackelele_)
 
 ## I am a computing student, developer and gamer!
 
@@ -15,9 +14,8 @@
 
 
 ### Connect with me:
-
  <a href="https://twitter.com/Jackelele_"><img alt="Twitter" src="https://i.imgur.com/JEatbyV.png" width="25"></a>
- <a href="https://discord.gg/hJuVz6c"><img alt="Discord" src="https://img.shields.io/discord/557259781199626240"></a>
+ <a href="https://discord.gg/milky"><img alt="Discord" src="https://img.shields.io/discord/903623898879377518"></a>
  <a href="https://twitch.tv/JackeleleHD"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/JackeleleHD?style=social"></a>
 
 
