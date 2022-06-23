@@ -4,7 +4,7 @@
  </div>
  <h1>Hi there, I'm Jackelele <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="30"/>, nice to see you.</h1>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/377175513372033024)](https://discord.com/users/377175513372033024)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/377175513372033024)](https://discord.com/users/377175513372033024)
 
 ## I am a computing student, developer and gamer!
 
