@@ -8,8 +8,8 @@
 
 ## I am a computing student, developer and gamer!
 
-- 🌱 I'm currently learning about ReactJS.
-- 🎓 I am a Graduate in Computing (Network, Security and Forensics).**
+- 🌱 I'm currently learning about ReactJS & 5G Networks.
+- 🎓 I'm a Graduate in Computing (Networks, Security and Forensics)
 
 ### Connect with me:
  <a href="https://twitter.com/Jackelele_"><img alt="Twitter" src="https://i.imgur.com/JEatbyV.png" width="25"></a>
