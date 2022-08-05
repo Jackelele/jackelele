@@ -6,7 +6,7 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/377175513372033024)](https://discord.com/users/377175513372033024)
 
-## I am a computing student, developer and gamer!
+## I am a Graduate, Developer and Gamer!
 
 - 🌱 I'm currently learning about ReactJS & 5G Networks.
 - 🎓 I'm a Graduate in Computing (Networks, Security and Forensics)
