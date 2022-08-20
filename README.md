@@ -10,7 +10,6 @@
 
 - 🌱 I'm currently learning about ReactJS & 5G Networks.
 - 🎓 I'm a Graduate in Computing (Networks, Security and Forensics)
-- 🙌 I'm current working at <a href="https://server.pro">Server.Pro</a>
 
 ### Connect with me:
  <a href="https://twitter.com/Jackelele_"><img alt="Twitter" src="https://i.imgur.com/JEatbyV.png" width="25"></a>
