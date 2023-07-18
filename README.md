@@ -2,7 +2,7 @@
  <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Hello+World!;I+am+Jackelele;Welcome+to+my+profile!">
 
  </div>
- <h1>Hi there, I'm Jackelele <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="30"/>, nice to see you.</h1>
+ <h1>Hi there, I'm Jack <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="30"/></h1>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/377175513372033024)](https://discord.com/users/377175513372033024)
 
