@@ -36,7 +36,7 @@ Last Updated: Wednesday, July 19th, 2023, 4:44:04 PM
 <details>
   <summary>📡 Discord</summary>
 
- [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/377175513372033024)](https://discord.com/users/377175513372033024)
+
  
 </details>
 
@@ -51,7 +51,7 @@ Last Updated: Wednesday, July 19th, 2023, 4:44:04 PM
 
 <hr>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11120813525&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=11120813525&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11120813525&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=11120813525&redirect=true)  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/377175513372033024)](https://discord.com/users/377175513372033024)
 
 <hr>
 
