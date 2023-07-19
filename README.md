@@ -33,13 +33,6 @@ This is a list of my most recent activity on GitHub.
 Last Updated: Wednesday, July 19th, 2023, 4:44:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
-<details>
-  <summary>📡 Discord</summary>
-
-
- 
-</details>
-
 <hr>
 
 <details>
