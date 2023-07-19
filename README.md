@@ -3,10 +3,12 @@
 </p>
 
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=I+am+Jackelele;Welcome+to+my+profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=I+am+Jackelele;Welcome+to+my+profile!">
+</div>
 
- </div>
- <h1>Hi there, I'm Jack <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="30"/></h1>
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+
+<h1>Hi there, I'm Jack <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="30"/></h1>
 
 
 
