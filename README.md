@@ -38,8 +38,8 @@ Last Updated: Thursday, July 20th, 2023, 12:25:15 PM
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jackelele" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jackelele&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jackelele&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jackelele&layout=compact&langs_count=8&card_width=320&theme=dark" />
 
 </details>
 
