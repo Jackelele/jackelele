@@ -15,6 +15,9 @@
 - 🎓 I'm a Graduate in Computing (Networks, Security and Forensics).
 - 🌱 I'm currently learning React & Express.
 
+
+[![My Skills](https://skillicons.dev/icons?i=css,html,js,php,react)](https://elele.team)
+
 <hr>
 
 ## Recent Activity
@@ -32,16 +35,6 @@ This is a list of my most recent activity on GitHub.
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Thursday, July 20th, 2023, 12:25:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
-
-<hr>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jackelele&theme=dark" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jackelele&layout=compact&langs_count=8&card_width=320&theme=dark" />
-
-</details>
 
 <hr>
 
