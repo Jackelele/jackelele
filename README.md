@@ -38,17 +38,8 @@ Last Updated: Thursday, July 20th, 2023, 12:25:15 PM
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Jackelele&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Jackelele&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Jackelele&show_icons=true" />
-</picture>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jackelele" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jackelele&layout=compact&langs_count=8&card_width=320" />
 
 </details>
 
