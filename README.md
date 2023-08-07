@@ -25,15 +25,15 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Jackelele/vencord](https://github.com/Jackelele/vencord)<br>
-2. ⬆️ Pushed 1 commit(s) to [Jackelele/vencord](https://github.com/Jackelele/vencord)<br>
-3. ⬆️ Pushed 1 commit(s) to [Jackelele/vencord](https://github.com/Jackelele/vencord)<br>
-4. ⬆️ Pushed 1 commit(s) to [Jackelele/vencord](https://github.com/Jackelele/vencord)<br>
+1. ⬆️ Pushed 1 commit(s) to [Jackelele/elele-bot](https://github.com/Jackelele/elele-bot)<br>
+2. ⬆️ Pushed 1 commit(s) to [Jackelele/elele-bot](https://github.com/Jackelele/elele-bot)<br>
+3. ⬆️ Pushed 1 commit(s) to [Jackelele/elele-bot](https://github.com/Jackelele/elele-bot)<br>
+4. ⬆️ Pushed 1 commit(s) to [Jackelele/elele-bot](https://github.com/Jackelele/elele-bot)<br>
 5. ⬆️ Pushed 1 commit(s) to [Jackelele/vencord](https://github.com/Jackelele/vencord)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 7th, 2023, 1:02:19 AM
+Last Updated: Monday, August 7th, 2023, 12:23:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>
