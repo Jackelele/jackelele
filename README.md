@@ -25,15 +25,15 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Jackelele/elele-bot](https://github.com/Jackelele/elele-bot)<br>
+1. ⭐ Starred [kabirsingh2004/all-in-one-discord-bot](https://github.com/kabirsingh2004/all-in-one-discord-bot)<br>
 2. ⬆️ Pushed 1 commit(s) to [Jackelele/elele-bot](https://github.com/Jackelele/elele-bot)<br>
 3. ⬆️ Pushed 1 commit(s) to [Jackelele/elele-bot](https://github.com/Jackelele/elele-bot)<br>
 4. ⬆️ Pushed 1 commit(s) to [Jackelele/elele-bot](https://github.com/Jackelele/elele-bot)<br>
-5. ⬆️ Pushed 1 commit(s) to [Jackelele/vencord](https://github.com/Jackelele/vencord)<br>
+5. ⬆️ Pushed 1 commit(s) to [Jackelele/elele-bot](https://github.com/Jackelele/elele-bot)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 13th, 2023, 12:19:11 PM
+Last Updated: Monday, August 14th, 2023, 12:52:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>
