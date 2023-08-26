@@ -25,15 +25,15 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Jackelele/discord](https://github.com/Jackelele/discord)<br>
-2. ⭐ Starred [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot)<br>
-3. ⭐ Starred [k-monnik/social-media-dashboard](https://github.com/k-monnik/social-media-dashboard)<br>
-4. ⭐ Starred [kabirsingh2004/all-in-one-discord-bot](https://github.com/kabirsingh2004/all-in-one-discord-bot)<br>
-5. ⬆️ Pushed 1 commit(s) to [Jackelele/elele-bot](https://github.com/Jackelele/elele-bot)<br>
+1. ⭐ Starred [Smartproxy/Social-Media-Scraping-API](https://github.com/Smartproxy/Social-Media-Scraping-API)<br>
+2. ⬆️ Pushed 1 commit(s) to [Jackelele/discord](https://github.com/Jackelele/discord)<br>
+3. ⭐ Starred [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot)<br>
+4. ⭐ Starred [k-monnik/social-media-dashboard](https://github.com/k-monnik/social-media-dashboard)<br>
+5. ⭐ Starred [kabirsingh2004/all-in-one-discord-bot](https://github.com/kabirsingh2004/all-in-one-discord-bot)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 25th, 2023, 12:21:26 PM
+Last Updated: Saturday, August 26th, 2023, 12:50:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>
