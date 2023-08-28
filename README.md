@@ -25,15 +25,15 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Smartproxy/Social-Media-Scraping-API](https://github.com/Smartproxy/Social-Media-Scraping-API)<br>
-2. ⬆️ Pushed 1 commit(s) to [Jackelele/discord](https://github.com/Jackelele/discord)<br>
-3. ⭐ Starred [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot)<br>
-4. ⭐ Starred [k-monnik/social-media-dashboard](https://github.com/k-monnik/social-media-dashboard)<br>
-5. ⭐ Starred [kabirsingh2004/all-in-one-discord-bot](https://github.com/kabirsingh2004/all-in-one-discord-bot)<br>
+1. ⭐ Starred [swadhinbiswas123/Random-Users](https://github.com/swadhinbiswas123/Random-Users)<br>
+2. ⭐ Starred [tadhglewis/issue-status](https://github.com/tadhglewis/issue-status)<br>
+3. ⭐ Starred [Smartproxy/Social-Media-Scraping-API](https://github.com/Smartproxy/Social-Media-Scraping-API)<br>
+4. ⬆️ Pushed 1 commit(s) to [Jackelele/discord](https://github.com/Jackelele/discord)<br>
+5. ⭐ Starred [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 27th, 2023, 12:19:37 PM
+Last Updated: Monday, August 28th, 2023, 12:53:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>
