@@ -25,15 +25,15 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Jackelele/discord](https://github.com/Jackelele/discord)<br>
-2. ⭐ Starred [swadhinbiswas123/Random-Users](https://github.com/swadhinbiswas123/Random-Users)<br>
-3. ⭐ Starred [tadhglewis/issue-status](https://github.com/tadhglewis/issue-status)<br>
-4. ⭐ Starred [Smartproxy/Social-Media-Scraping-API](https://github.com/Smartproxy/Social-Media-Scraping-API)<br>
-5. ⬆️ Pushed 1 commit(s) to [Jackelele/discord](https://github.com/Jackelele/discord)<br>
+1. ⭐ Starred [Discord-Datamining/Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining)<br>
+2. ⬆️ Pushed 1 commit(s) to [Jackelele/discord](https://github.com/Jackelele/discord)<br>
+3. ⭐ Starred [swadhinbiswas123/Random-Users](https://github.com/swadhinbiswas123/Random-Users)<br>
+4. ⭐ Starred [tadhglewis/issue-status](https://github.com/tadhglewis/issue-status)<br>
+5. ⭐ Starred [Smartproxy/Social-Media-Scraping-API](https://github.com/Smartproxy/Social-Media-Scraping-API)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 1st, 2023, 12:21:52 PM
+Last Updated: Saturday, September 2nd, 2023, 12:50:39 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>
