@@ -25,15 +25,15 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Discord-Datamining/Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining)<br>
-2. ⬆️ Pushed 1 commit(s) to [Jackelele/discord](https://github.com/Jackelele/discord)<br>
-3. ⭐ Starred [swadhinbiswas123/Random-Users](https://github.com/swadhinbiswas123/Random-Users)<br>
-4. ⭐ Starred [tadhglewis/issue-status](https://github.com/tadhglewis/issue-status)<br>
-5. ⭐ Starred [Smartproxy/Social-Media-Scraping-API](https://github.com/Smartproxy/Social-Media-Scraping-API)<br>
+1. ⭐ Starred [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars)<br>
+2. ⭐ Starred [Discord-Datamining/Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining)<br>
+3. ⬆️ Pushed 1 commit(s) to [Jackelele/discord](https://github.com/Jackelele/discord)<br>
+4. ⭐ Starred [swadhinbiswas123/Random-Users](https://github.com/swadhinbiswas123/Random-Users)<br>
+5. ⭐ Starred [tadhglewis/issue-status](https://github.com/tadhglewis/issue-status)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 16th, 2023, 12:19:36 PM
+Last Updated: Sunday, September 17th, 2023, 12:55:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>
