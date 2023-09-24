@@ -25,15 +25,15 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>
-2. ⬆️ Pushed 1 commit(s) to [Jackelele/discord](https://github.com/Jackelele/discord)<br>
-3. ⭐ Starred [nimarion/promcord](https://github.com/nimarion/promcord)<br>
-4. 🔱 Forked [Jackelele/promcord](https://github.com/Jackelele/promcord) from [nimarion/promcord](https://github.com/nimarion/promcord)<br>
-5. ⭐ Starred [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars)<br>
+1. ⬆️ Pushed 1 commit(s) to [Jackelele/discord](https://github.com/Jackelele/discord)<br>
+2. ⭐ Starred [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>
+3. ⬆️ Pushed 1 commit(s) to [Jackelele/discord](https://github.com/Jackelele/discord)<br>
+4. ⭐ Starred [nimarion/promcord](https://github.com/nimarion/promcord)<br>
+5. 🔱 Forked [Jackelele/promcord](https://github.com/Jackelele/promcord) from [nimarion/promcord](https://github.com/nimarion/promcord)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 23rd, 2023, 12:03:56 PM
+Last Updated: Sunday, September 24th, 2023, 12:12:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>
