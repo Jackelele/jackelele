@@ -25,15 +25,15 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)<br>
-2. ⭐ Starred [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui)<br>
-3. ⭐ Starred [carlosazaustre/dev-profile-links](https://github.com/carlosazaustre/dev-profile-links)<br>
-4. ⭐ Starred [aralroca/next-translate](https://github.com/aralroca/next-translate)<br>
-5. ⭐ Starred [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder)<br>
+1. ⭐ Starred [Niek/obs-web](https://github.com/Niek/obs-web)<br>
+2. ⭐ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)<br>
+3. ⭐ Starred [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui)<br>
+4. ⭐ Starred [carlosazaustre/dev-profile-links](https://github.com/carlosazaustre/dev-profile-links)<br>
+5. ⭐ Starred [aralroca/next-translate](https://github.com/aralroca/next-translate)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 29th, 2023, 12:04:59 PM
+Last Updated: Thursday, November 30th, 2023, 12:12:47 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>
