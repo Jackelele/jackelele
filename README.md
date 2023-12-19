@@ -25,15 +25,15 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Niek/obs-web](https://github.com/Niek/obs-web)<br>
-2. ⭐ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)<br>
-3. ⭐ Starred [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui)<br>
-4. ⭐ Starred [carlosazaustre/dev-profile-links](https://github.com/carlosazaustre/dev-profile-links)<br>
-5. ⭐ Starred [aralroca/next-translate](https://github.com/aralroca/next-translate)<br>
+1. ⭐ Starred [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)<br>
+2. ⭐ Starred [Niek/obs-web](https://github.com/Niek/obs-web)<br>
+3. ⭐ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)<br>
+4. ⭐ Starred [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui)<br>
+5. ⭐ Starred [carlosazaustre/dev-profile-links](https://github.com/carlosazaustre/dev-profile-links)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 18th, 2023, 12:04:58 PM
+Last Updated: Tuesday, December 19th, 2023, 12:13:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>
