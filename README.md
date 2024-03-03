@@ -10,7 +10,7 @@
 
 <h1>Hi there, I'm Jack <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="30"/></h1>
 
-- 💡 I'm currently a Graduate Engineeer specialising in Networks
+- 💡 I'm currently a Graduate Engineeer specialising in Networks & Infrastructure
 - 📡 I'm also an Executive Director at [EleleTech Services](https://eleletech.services)
 - 🎓 I'm a Graduate in Computing (Networks, Security and Forensics).
 - 🌱 I'm currently learning React & Express.
