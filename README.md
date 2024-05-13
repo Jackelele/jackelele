@@ -26,15 +26,15 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [myhiy/BetterVLR](https://github.com/myhiy/BetterVLR)<br>
-2. ⬆️ Pushed 1 commit(s) to [Jackelele/lol](https://github.com/Jackelele/lol)<br>
+1. 📔 Created new repository [Noir-Esports/.github](https://github.com/Noir-Esports/.github)<br>
+2. ⭐ Starred [myhiy/BetterVLR](https://github.com/myhiy/BetterVLR)<br>
 3. ⬆️ Pushed 1 commit(s) to [Jackelele/lol](https://github.com/Jackelele/lol)<br>
-4. ⭐ Starred [SamuelTulach/OverlayCord](https://github.com/SamuelTulach/OverlayCord)<br>
-5. ⬆️ Pushed 1 commit(s) to [Jackelele/jackelele](https://github.com/Jackelele/jackelele)<br>
+4. ⬆️ Pushed 1 commit(s) to [Jackelele/lol](https://github.com/Jackelele/lol)<br>
+5. ⭐ Starred [SamuelTulach/OverlayCord](https://github.com/SamuelTulach/OverlayCord)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 12th, 2024, 12:04:37 PM
+Last Updated: Monday, May 13th, 2024, 12:13:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>
