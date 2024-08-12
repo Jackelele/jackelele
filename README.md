@@ -39,7 +39,7 @@ Last Updated: Monday, August 12th, 2024, 12:15:06 AM
 
 <hr>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11120813525&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=11120813525&redirect=true)  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/377175513372033024)](https://discord.com/users/377175513372033024)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/377175513372033024)](https://discord.com/users/377175513372033024)
 
 <hr>
 
