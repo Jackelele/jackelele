@@ -25,15 +25,15 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)<br>
-2. ⭐ Starred [glanceapp/glance](https://github.com/glanceapp/glance)<br>
-3. ⭐ Starred [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)<br>
-4. ⭐ Starred [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)<br>
-5. ⭐ Starred [Freika/dawarich](https://github.com/Freika/dawarich)<br>
+1. ⭐ Starred [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)<br>
+2. ⭐ Starred [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)<br>
+3. ⭐ Starred [glanceapp/glance](https://github.com/glanceapp/glance)<br>
+4. ⭐ Starred [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)<br>
+5. ⭐ Starred [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 27th, 2024, 12:06:09 PM
+Last Updated: Saturday, December 28th, 2024, 12:15:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>
