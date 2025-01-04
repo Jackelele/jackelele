@@ -25,15 +25,15 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Jackelele/jackelele](https://github.com/Jackelele/jackelele)<br>
-2. ⭐ Starred [teableio/teable](https://github.com/teableio/teable)<br>
-3. ⭐ Starred [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)<br>
-4. ⭐ Starred [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)<br>
-5. ⭐ Starred [glanceapp/glance](https://github.com/glanceapp/glance)<br>
+1. ⭐ Starred [louis-e/arnis](https://github.com/louis-e/arnis)<br>
+2. ⭐ Starred [Mailu/Mailu](https://github.com/Mailu/Mailu)<br>
+3. ⬆️ Pushed 1 commit(s) to [Jackelele/jackelele](https://github.com/Jackelele/jackelele)<br>
+4. ⭐ Starred [teableio/teable](https://github.com/teableio/teable)<br>
+5. ⭐ Starred [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 3rd, 2025, 12:06:12 PM
+Last Updated: Saturday, January 4th, 2025, 12:16:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>
