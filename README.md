@@ -25,15 +25,15 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [documenso/documenso](https://github.com/documenso/documenso)<br>
-2. ⭐ Starred [Unleash/unleash](https://github.com/Unleash/unleash)<br>
-3. ⭐ Starred [makeplane/plane](https://github.com/makeplane/plane)<br>
-4. ⭐ Starred [immich-app/immich](https://github.com/immich-app/immich)<br>
-5. ⭐ Starred [imputnet/cobalt](https://github.com/imputnet/cobalt)<br>
+1. ⭐ Starred [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits)<br>
+2. ⭐ Starred [code-env/Framer-ground](https://github.com/code-env/Framer-ground)<br>
+3. ⭐ Starred [ui-layouts/cursify](https://github.com/ui-layouts/cursify)<br>
+4. ⭐ Starred [refinedev/refine](https://github.com/refinedev/refine)<br>
+5. ⭐ Starred [intergrav/devins-badges](https://github.com/intergrav/devins-badges)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 19th, 2025, 12:17:39 AM
+Last Updated: Sunday, January 19th, 2025, 12:05:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>
