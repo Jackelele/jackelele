@@ -25,15 +25,15 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [coollabsio/coolify](https://github.com/coollabsio/coolify)<br>
-2. ⭐ Starred [aidenybai/react-scan](https://github.com/aidenybai/react-scan)<br>
-3. ⭐ Starred [udecode/plate](https://github.com/udecode/plate)<br>
-4. ⭐ Starred [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits)<br>
-5. ⭐ Starred [code-env/Framer-ground](https://github.com/code-env/Framer-ground)<br>
+1. ⭐ Starred [bytedance/monolith](https://github.com/bytedance/monolith)<br>
+2. ⭐ Starred [coollabsio/coolify](https://github.com/coollabsio/coolify)<br>
+3. ⭐ Starred [aidenybai/react-scan](https://github.com/aidenybai/react-scan)<br>
+4. ⭐ Starred [udecode/plate](https://github.com/udecode/plate)<br>
+5. ⭐ Starred [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 20th, 2025, 12:06:28 PM
+Last Updated: Tuesday, January 21st, 2025, 12:15:53 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>
