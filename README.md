@@ -25,15 +25,15 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bytedance/monolith](https://github.com/bytedance/monolith)<br>
-2. ⭐ Starred [coollabsio/coolify](https://github.com/coollabsio/coolify)<br>
-3. ⭐ Starred [aidenybai/react-scan](https://github.com/aidenybai/react-scan)<br>
-4. ⭐ Starred [udecode/plate](https://github.com/udecode/plate)<br>
-5. ⭐ Starred [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits)<br>
+1. ⭐ Starred [ShivkalaDrakh/Hive-Organizer-for-Whiteout-Survival-State-of-Survival](https://github.com/ShivkalaDrakh/Hive-Organizer-for-Whiteout-Survival-State-of-Survival)<br>
+2. ⭐ Starred [Reloisback/Whiteout-Survival-Discord-Bot](https://github.com/Reloisback/Whiteout-Survival-Discord-Bot)<br>
+3. ⭐ Starred [bytedance/monolith](https://github.com/bytedance/monolith)<br>
+4. ⭐ Starred [coollabsio/coolify](https://github.com/coollabsio/coolify)<br>
+5. ⭐ Starred [aidenybai/react-scan](https://github.com/aidenybai/react-scan)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 22nd, 2025, 12:16:19 AM
+Last Updated: Wednesday, January 22nd, 2025, 12:06:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>
