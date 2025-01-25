@@ -25,15 +25,15 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ShivkalaDrakh/Hive-Organizer-for-Whiteout-Survival-State-of-Survival](https://github.com/ShivkalaDrakh/Hive-Organizer-for-Whiteout-Survival-State-of-Survival)<br>
-2. ⭐ Starred [Reloisback/Whiteout-Survival-Discord-Bot](https://github.com/Reloisback/Whiteout-Survival-Discord-Bot)<br>
-3. ⭐ Starred [bytedance/monolith](https://github.com/bytedance/monolith)<br>
-4. ⭐ Starred [coollabsio/coolify](https://github.com/coollabsio/coolify)<br>
-5. ⭐ Starred [aidenybai/react-scan](https://github.com/aidenybai/react-scan)<br>
+1. ⭐ Starred [kokonut-labs/kokonutui](https://github.com/kokonut-labs/kokonutui)<br>
+2. ⭐ Starred [nyxb-ui/ui](https://github.com/nyxb-ui/ui)<br>
+3. ⭐ Starred [StaticMania/keep-react](https://github.com/StaticMania/keep-react)<br>
+4. ⭐ Starred [LangbaseInc/langui](https://github.com/LangbaseInc/langui)<br>
+5. ⭐ Starred [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 24th, 2025, 12:06:11 PM
+Last Updated: Saturday, January 25th, 2025, 12:15:45 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>
