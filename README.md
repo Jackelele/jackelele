@@ -25,15 +25,15 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kokonut-labs/kokonutui](https://github.com/kokonut-labs/kokonutui)<br>
-2. ⭐ Starred [nyxb-ui/ui](https://github.com/nyxb-ui/ui)<br>
-3. ⭐ Starred [StaticMania/keep-react](https://github.com/StaticMania/keep-react)<br>
-4. ⭐ Starred [LangbaseInc/langui](https://github.com/LangbaseInc/langui)<br>
-5. ⭐ Starred [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui)<br>
+1. ⭐ Starred [magicuidesign/magicui](https://github.com/magicuidesign/magicui)<br>
+2. ⭐ Starred [uixmat/onborda](https://github.com/uixmat/onborda)<br>
+3. ⭐ Starred [ui-layouts/uilayouts](https://github.com/ui-layouts/uilayouts)<br>
+4. ⭐ Starred [konstaui/konsta](https://github.com/konstaui/konsta)<br>
+5. ⭐ Starred [heroui-inc/heroui](https://github.com/heroui-inc/heroui)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 28th, 2025, 12:16:34 AM
+Last Updated: Tuesday, January 28th, 2025, 12:06:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>
