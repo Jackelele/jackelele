@@ -9,11 +9,10 @@
 
 <h1>Hi there, I'm Jack <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="30"/></h1>
 
-- 📡 I'm an Executive Director at [Elele Group](https://elele.group) and Budify.
+- 📡 I'm an Executive Director at [Elele Group](https://elele.group).
 - 🎓 I'm a Graduate in Computing (Networks, Security and Forensics).
-- ☺️ Find more about me at [jack.elele.dev](https://jack.elele.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=css,html,js,php,react)](https://jack.elele.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,html,js,php,react)](https://elele.group)
 
 <hr>
 
